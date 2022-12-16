@@ -19,7 +19,7 @@ const Header = () => {
               Members
             </Link>
             <Link className="btn btn-success menu" to="/songs">
-              SongList
+              Songs
             </Link>
           </div>
         </div>
