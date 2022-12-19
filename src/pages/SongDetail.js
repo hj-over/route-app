@@ -7,7 +7,7 @@ const SongDetail = (props) => {
   // : 리턴된 결과를 destructuring 비구조화 한다.
   // : value 는 문자열로 온다.
   const { id } = useParams();
-
+  
   //useNavigate() : 강제로 화면 이동
   const navigate = useNavigate();
 
